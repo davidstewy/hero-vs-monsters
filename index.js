@@ -15,7 +15,7 @@ const gheklekTheWereRainbow =
 // What's with that slash at the end of some of the lines below?
 // https://mdn.io/string#Long_literal_strings
 // https://davidwalsh.name/multiline-javascript-strings
-
+ 
 const jennifer = 
   new Monster(
     "Misunderstood Ogre (Former Cast Member of 'One Tree Hill') Acting \
